@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Frontend Project**
+- 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 🤝 I’m looking for help with **Frontend Development**
 
